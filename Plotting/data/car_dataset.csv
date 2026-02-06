@@ -1,0 +1,11 @@
+Car,Engine_Type,Fuel_Economy_MPG,Weight_kg
+Sedan A,I4,32,1300
+Sedan B,I4,30,1350
+SUV A,V6,24,1800
+SUV B,V6,22,1900
+Truck A,V8,18,2200
+Hatchback A,I4,36,1150
+Hatchback B,I4,34,1180
+Coupe A,V6,28,1500
+Coupe B,V6,27,1550
+Van A,I4,25,1700
